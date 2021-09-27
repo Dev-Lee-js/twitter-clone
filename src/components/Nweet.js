@@ -7,7 +7,7 @@ const Nweet = ({ nweetObj, isOwner }) => {
   const [editing, setEditing] = useState(false);
   const [newNweet, setNewNweet] = useState(nweetObj.text);
   const onDeleteClick = async () => {
-    const ok = window.confirm("Are you sure you want to delete this nweet?");
+    const ok = window.confirm("이 트윗을 삭제하시겠습니까?");
     if (ok) {
       await dbService.doc(`nweets/${nweetObj.id}`).delete();
       await storageService.refFromURL(nweetObj.attachmentUrl).delete();
@@ -41,10 +41,10 @@ const Nweet = ({ nweetObj, isOwner }) => {
               onChange={onChange}
               className="formInput"
             />
-            <input type="submit" value="Update Nweet" className="formBtn" />
+            <input type="submit" value="수정하기" className="formBtn" />
           </form>
           <span onClick={toggleEditing} className="formBtn cancelBtn">
-            Cancel
+            취소
           </span>
         </>
       ) : (

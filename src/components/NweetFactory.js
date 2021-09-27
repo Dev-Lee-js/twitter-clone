@@ -59,13 +59,13 @@ const NweetFactory = ({ userObj }) => {
           value={nweet}
           onChange={onChange}
           type="text"
-          placeholder="What's on your mind?"
+          placeholder="트윗을 남겨보세요."
           maxLength={120}
         />
         <input type="submit" value="&rarr;" className="factoryInput__arrow" />
       </div>
       <label for="attach-file" className="factoryInput__label">
-        <span>Add photos</span>
+        <span>이미지 올리기</span>
         <FontAwesomeIcon icon={faPlus} />
       </label>
       <input
