@@ -40,8 +40,10 @@ export default ({ refreshUser, userObj }) => {
           className="formBtn"
           style={{
             marginTop: 10,
-          }}
+            marginBottom: 10
+          }}          
         />
+        <a href="#/">취소하기</a>
       </form>
       <span className="formBtn cancelBtn logOut" onClick={onLogOutClick}>
       로그아웃

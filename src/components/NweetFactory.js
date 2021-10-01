@@ -62,10 +62,10 @@ const NweetFactory = ({ userObj }) => {
           placeholder="트윗을 남겨보세요."
           maxLength={120}
         />
-        <input type="submit" value="&rarr;" className="factoryInput__arrow" />
+        <input type="submit" value="업로드" className="factoryInput__arrow" />
       </div>
       <label for="attach-file" className="factoryInput__label">
-        <span>이미지 올리기</span>
+        <span>이미지 업로드</span>
         <FontAwesomeIcon icon={faPlus} />
       </label>
       <input
@@ -86,7 +86,7 @@ const NweetFactory = ({ userObj }) => {
             }}
           />
           <div className="factoryForm__clear" onClick={onClearAttachment}>
-            <span>Remove</span>
+            <span>삭제하기</span>
             <FontAwesomeIcon icon={faTimes} />
           </div>
         </div>

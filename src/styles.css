@@ -1,5 +1,5 @@
 @import "https://cdn.jsdelivr.net/npm/reset-css@5.0.1/reset.min.css";
-
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap');
 input {
   all: unset;
   appearance: none;
@@ -12,8 +12,7 @@ input {
 
 body {
   background-color: white;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 14px;
 }
 
@@ -66,7 +65,7 @@ form {
 
 .cancelBtn {
   cursor: pointer;
-  background-color: tomato;
+  background-color: #b2b2b2;
 }
 
 /* Profile Page */
@@ -77,6 +76,16 @@ form {
   width: 100%;
   display: flex;
   flex-direction: column;
+}
+.profileForm a{
+    cursor: pointer;
+    width: 100%;
+    padding: 7px 20px;
+    text-align: center;
+    color: white;
+    border-radius: 20px;
+    background-color: tomato;
+    cursor: pointer;
 }
 
 .logOut {
@@ -118,14 +127,16 @@ form {
   right: 0;
   background-color: #04aaff;
   height: 40px;
-  width: 40px;
+  width: 70px;
   padding: 10px 0px;
   text-align: center;
   border-radius: 20px;
   color: white;
   box-sizing: border-box;
 }
-
+.factoryInput__arrow:hover{
+  background-color:#007ebe;
+}
 .factoryInput__label {
   color: #04aaff;
   cursor: pointer;
@@ -143,20 +154,20 @@ form {
 }
 
 .factoryForm__attachment img {
-  height: 80px;
-  width: 80px;
-  border-radius: 40px;
+  width: 300px;  
 }
 
 .factoryForm__clear {
   color: #04aaff;
   cursor: pointer;
   text-align: center;
+  margin-top: 25px;
 }
 
 .factoryForm__clear span {
   margin-right: 10px;
   font-size: 12px;
+
 }
 
 /* Nweet */
@@ -181,23 +192,18 @@ form {
 }
 
 .nweet h4 {
-  font-size: 14px;
+  font-size: 15px;
 }
 
-.nweet img {
-  right: -10px;
-  top: 20px;
-  position: absolute;
-  border-radius: 50%;
-  width: 50px;
-  height: 50px;
-  margin-top: 10px;
+.nweet img {  
+  width: 300px;
+  margin-top: 40px;
 }
 
 .nweet__actions {
   position: absolute;
   right: 10px;
-  top: 10px;
+  top: 18px;
 }
 
 .nweet__actions span {
