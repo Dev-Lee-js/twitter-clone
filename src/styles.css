@@ -116,12 +116,14 @@ form {
   height: 40px;
   padding: 0px 20px;
   color: black;
-  border: 1px solid #04aaff;
+  border: 1px solid #5e5e5e;
   border-radius: 20px;
   font-weight: 500;
   font-size: 12px;
 }
-
+.factoryInput__input:focus{
+  border: 1px solid #04aaff;
+}
 .factoryInput__arrow {
   position: absolute;
   right: 0;

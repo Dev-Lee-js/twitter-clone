@@ -34,8 +34,8 @@ const NweetFactory = ({ userObj }) => {
     const {
       target: { value },
     } = event;
-    setNweet(value);
-  };
+    setNweet(value);    
+  };  
   const onFileChange = (event) => {
     const {
       target: { files },
@@ -60,7 +60,7 @@ const NweetFactory = ({ userObj }) => {
           onChange={onChange}
           type="text"
           placeholder="트윗을 남겨보세요."
-          maxLength={120}
+          maxLength={120}          
         />
         <input type="submit" value="업로드" className="factoryInput__arrow" />
       </div>
