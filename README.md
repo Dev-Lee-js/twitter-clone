@@ -48,11 +48,13 @@ npm run start
 
 ### 📚 Website Main Page #1
 <img width="1100" alt="MainPage" src="https://user-images.githubusercontent.com/54101187/111346410-88fca180-86c1-11eb-83c7-d0cd3f2f94bd.png">
+
 ### 📚 Website Main Page #2
 <img width="1100" alt="MainPage" src="https://user-images.githubusercontent.com/54101187/111346542-aa5d8d80-86c1-11eb-8aa7-365ca2ed5bd6.png">
-### ⚙️ Functions
-<hr/>
-회원가입
+
+## ⚙️ Functions
+
+### 회원가입
 <img width="1100" alt="MainPage" src="https://dev-lee-js.github.io/portfolio/images/twitter-clone-1.gif">
 
 
