@@ -49,10 +49,10 @@ npm run start
 # Preview
 
 ### 📚 Website Main Page #1
-<img width="1100" alt="MainPage" src="https://user-images.githubusercontent.com/54101187/111346410-88fca180-86c1-11eb-83c7-d0cd3f2f94bd.png">
+<img width="1100" alt="MainPage" src="https://github.com/Dev-Lee-js/portfolio/blob/gh-pages/images/twitter-main-1.JPG?raw=true">
 
 ### 📚 Website Main Page #2
-<img width="1100" alt="MainPage" src="https://user-images.githubusercontent.com/54101187/111346542-aa5d8d80-86c1-11eb-8aa7-365ca2ed5bd6.png">
+<img width="1100" alt="MainPage" src="https://github.com/Dev-Lee-js/portfolio/blob/gh-pages/images/twitter-main-2.JPG?raw=true">
 
 ### 👉 [사이트 방문하기](https://dev-lee-js.github.io/twitter-clone/)
 
