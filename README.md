@@ -10,14 +10,14 @@
 <p align='center'>            
     <img src="https://img.shields.io/badge/node.js-v14.15.1-green?logo=Node.js"/>                    
     <img src="https://img.shields.io/badge/firebase-^1.22.5-yellow?logo=firebase">
-    <img src="https://img.shields.io/badge/npm-^1.22.5-green?logo=npm">
+    <img src="https://img.shields.io/badge/npm-^1.22.5-orange?logo=npm">
 </p>
 
 * **Front**
 <p align='center'>        
     <img src="https://img.shields.io/badge/React-v17.0.1-blue?logo=React"/>   
-    <img src="https://img.shields.io/badge/FontAwesoe-v17.0.1-green?logo=fontAwesome"/>   
-    <img src="https://img.shields.io/badge/css3-v17.0.1-blue?logo=css3"/>   
+    <img src="https://img.shields.io/badge/FontAwesoe-v17.0.1-purple?logo=fontAwesome"/>   
+    <img src="https://img.shields.io/badge/css3-v17.0.1-brown?logo=css3"/>   
     <img src="https://img.shields.io/badge/html5-v17.0.1-red?logo=html5"/>   
 </p>
 
