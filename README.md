@@ -21,6 +21,8 @@
     <img src="https://img.shields.io/badge/html-v5.0.0-red?logo=html5"/>   
 </p>
 
+### 서버 배포
+* **gh-pages build**
 
 
 <hr />
@@ -44,7 +46,7 @@ npm run start
 ```
 <hr/>
 
-## Preview
+# Preview
 
 ### 📚 Website Main Page #1
 <img width="1100" alt="MainPage" src="https://user-images.githubusercontent.com/54101187/111346410-88fca180-86c1-11eb-83c7-d0cd3f2f94bd.png">
@@ -71,9 +73,6 @@ npm run start
 ### 로그아웃
 <img width="1100" alt="MainPage" src="https://dev-lee-js.github.io/portfolio/images/twitter-clone-5.gif">
 
-
-
-
 ## File tree
 
 <pre>
@@ -99,27 +98,12 @@ npm run start
 
 ## Pages
 
+- [x] Auth
+- [x] EditProfile
 - [x] Home
-- [x] Log In
-- [x] Join
-- [x] Search
-- [x] Change Password
-- [x] Edit Profile
-- [x] Edit Video
-- [x] Upload
-- [x] User Detail
-- [x] Video Detail
-- [ ] Recording Video
+- [x] Profile
 
-## Skills
 
-- ES6
-- Express Server
-- Pug
-- MongoDB (MongoDB cloud)
-- AWS S3
-- Webpack ES6 + SaSS
-- heroku 배포
 
 
 
