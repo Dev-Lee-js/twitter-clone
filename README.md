@@ -46,13 +46,15 @@ npm run start
 
 ## Preview
 
-📚 Website Main Page #1
+### 📚 Website Main Page #1
 <img width="1100" alt="MainPage" src="https://user-images.githubusercontent.com/54101187/111346410-88fca180-86c1-11eb-83c7-d0cd3f2f94bd.png">
-📚 Website Main Page #2
+### 📚 Website Main Page #2
 <img width="1100" alt="MainPage" src="https://user-images.githubusercontent.com/54101187/111346542-aa5d8d80-86c1-11eb-8aa7-365ca2ed5bd6.png">
-⚙️ Functions
+### ⚙️ Functions
+<hr/>
+회원가입
 <img width="1100" alt="MainPage" src="https://dev-lee-js.github.io/portfolio/images/twitter-clone-1.gif">
-## 회원가입
+
 
 👉 [사이트 방문하기](https://dev-lee-js.github.io/twitter-clone/)
 
@@ -103,12 +105,5 @@ npm run start
 - Webpack ES6 + SaSS
 - heroku 배포
 
-## Functions
-
-- 로그인 & 로그아웃 (Social Login)
-- 비디오 업로드 및 관리 (삭제, 수정)
-- 비디오 검색 기능
-- 댓글 기능
-- 영상 녹화 기능 (업데이트중..)
 
 
