@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/html-v5.0.0-red?logo=html5"/>   
 </p>
 
-### 서버 배포
+### React Deploy
 * **gh-pages build**
 
 
