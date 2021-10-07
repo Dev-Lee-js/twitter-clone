@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/node.js-v14.17.3-green?logo=Node.js"/>                    
     <img src="https://img.shields.io/badge/firebase-v7.18.0-yellow?logo=firebase">
     <img src="https://img.shields.io/badge/npm-^6.14.13-orange?logo=npm">
+    <img src="https://img.shields.io/badge/Axios-v0.22.0-gray?logo=axios">
 </p>
 
 * **Front**
