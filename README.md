@@ -1,6 +1,7 @@
- <p align='center'>
- 
  # Twitter-Clone PROJECT
+ 
+ <p align='center'>
+
 <img width="200" alt="MainPage" src="https://dev-lee-js.github.io/portfolio/images/thumb_07.png"> 
 Made by <br>
 JONGSEOK LEE
