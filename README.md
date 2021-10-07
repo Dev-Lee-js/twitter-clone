@@ -1,7 +1,28 @@
+ <p align='center'>
+ 
  # Twitter-Clone PROJECT
 <img width="200" alt="MainPage" src="https://dev-lee-js.github.io/portfolio/images/thumb_07.png"> 
 Made by <br>
 JONGSEOK LEE
+
+<p>
+<p align='center'>
+    <img src="https://img.shields.io/badge/React-v17.0.1-blue?logo=React"/>
+    <img src="https://img.shields.io/badge/node.js-v14.15.1-green?logo=Node.js"/>
+    <img src="https://img.shields.io/badge/storybook-v6.0.28-ff69b4?logo=storybook"/>
+    <img src="https://img.shields.io/badge/koa-v2.13.0-aaa?logo=Kaggle"/>
+    <img src="https://img.shields.io/badge/mongodb-v4.0.10-critical?logo=mongodb"/>
+    <img src="https://img.shields.io/badge/mongoose-v5.10.15-critical?logo=mongodb"/>
+    <img src="https://img.shields.io/badge/Typescript-v4.0.5-blue?logo=typescript"/>
+    <img src="https://img.shields.io/badge/jest-v26.6.3-orange?logo=jest"/>
+    <img src="https://img.shields.io/badge/MobX-v6.0.4-orange?logo=Monster">
+    <img src="https://img.shields.io/badge/prettier-^2.2.0-yellow?logo=prettier" />
+    <img src="https://img.shields.io/badge/eslint-^7.11.0-yellow?logo=eslint">
+    <img src="https://img.shields.io/badge/yarn-^1.22.5-yellow?logo=yarn">
+</p>
+
+
+
 <hr />
 안녕하세요^^
 
@@ -29,7 +50,6 @@ npm run start
 <img width="1100" alt="MainPage" src="https://user-images.githubusercontent.com/54101187/111346410-88fca180-86c1-11eb-83c7-d0cd3f2f94bd.png">
 📚 Website Main Page #2
 <img width="1100" alt="MainPage" src="https://user-images.githubusercontent.com/54101187/111346542-aa5d8d80-86c1-11eb-8aa7-365ca2ed5bd6.png">
-<img src="fullpage.png" width="700" />
 🧷 Deatail - Movie infomation, etc.  
 <img width="1100" alt="Detail" src="https://user-images.githubusercontent.com/54101187/111346904-07594380-86c2-11eb-82a6-6efa0108c129.png">  
 🧷 About Cast
@@ -43,7 +63,7 @@ Created by using boiler-plates as well
 <img width="400" alt="Signin" src="https://user-images.githubusercontent.com/54101187/110809906-a6e49380-82c8-11eb-933f-c4e21e8b1863.png">
 <img width="400" alt="Login" src="https://user-images.githubusercontent.com/54101187/110809898-a5b36680-82c8-11eb-8557-d1171a4922bb.png">          
 
-👉 [사이트 방문하기](https://eunjitech.github.io/movie_box/)
+👉 [사이트 방문하기](https://dev-lee-js.github.io/twitter-clone/)
 
 ## File tree
 
