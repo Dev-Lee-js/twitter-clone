@@ -52,6 +52,8 @@ npm run start
 ### 📚 Website Main Page #2
 <img width="1100" alt="MainPage" src="https://user-images.githubusercontent.com/54101187/111346542-aa5d8d80-86c1-11eb-8aa7-365ca2ed5bd6.png">
 
+### 👉 [사이트 방문하기](https://dev-lee-js.github.io/twitter-clone/)
+
 ## ⚙️ Functions
 
 ### 회원가입
@@ -70,7 +72,7 @@ npm run start
 <img width="1100" alt="MainPage" src="https://dev-lee-js.github.io/portfolio/images/twitter-clone-5.gif">
 
 
-👉 [사이트 방문하기](https://dev-lee-js.github.io/twitter-clone/)
+
 
 ## File tree
 
