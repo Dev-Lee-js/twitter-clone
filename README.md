@@ -8,17 +8,17 @@
 ### 🛠 Tech Stack
 * **Back**
 <p align='center'>            
-    <img src="https://img.shields.io/badge/node.js-v14.15.1-green?logo=Node.js"/>                    
-    <img src="https://img.shields.io/badge/firebase-^1.22.5-yellow?logo=firebase">
-    <img src="https://img.shields.io/badge/npm-^1.22.5-orange?logo=npm">
+    <img src="https://img.shields.io/badge/node.js-v14.17.3-green?logo=Node.js"/>                    
+    <img src="https://img.shields.io/badge/firebase-v7.18.0-yellow?logo=firebase">
+    <img src="https://img.shields.io/badge/npm-^6.14.13-orange?logo=npm">
 </p>
 
 * **Front**
 <p align='center'>        
     <img src="https://img.shields.io/badge/React-v17.0.1-blue?logo=React"/>   
-    <img src="https://img.shields.io/badge/FontAwesoe-v17.0.1-purple?logo=fontAwesome"/>   
-    <img src="https://img.shields.io/badge/css3-v17.0.1-brown?logo=css3"/>   
-    <img src="https://img.shields.io/badge/html5-v17.0.1-red?logo=html5"/>   
+    <img src="https://img.shields.io/badge/FontAwesoe-v5.14.0-purple?logo=fontAwesome"/>   
+    <img src="https://img.shields.io/badge/css-v3.0.0-brown?logo=css3"/>   
+    <img src="https://img.shields.io/badge/html-v5.0.0-red?logo=html5"/>   
 </p>
 
 
