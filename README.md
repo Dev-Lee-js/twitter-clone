@@ -20,6 +20,7 @@
     <img src="https://img.shields.io/badge/prettier-^2.2.0-yellow?logo=prettier" />
     <img src="https://img.shields.io/badge/eslint-^7.11.0-yellow?logo=eslint">
     <img src="https://img.shields.io/badge/yarn-^1.22.5-yellow?logo=yarn">
+    <img src="https://img.shields.io/badge/firebase-^1.22.5-yellow?logo=firebase">
 </p>
 
 * **Front**
@@ -37,8 +38,6 @@
     <img src="https://img.shields.io/badge/eslint-^7.11.0-yellow?logo=eslint">
     <img src="https://img.shields.io/badge/yarn-^1.22.5-yellow?logo=yarn">
 </p>
-
-
 
 
 
@@ -130,22 +129,6 @@ Created by using boiler-plates as well
 - AWS S3
 - Webpack ES6 + SaSS
 - heroku 배포
-
-## plugins
-
-- sass-loader
-- node-sass
-- VueMomentJS
-- vue-waypoint
-- vue-typed-js
-- vue2-animate
-- vee-validate
-- intersection-observer (IE11지원을 위해..)
-- vue-daum-map
-- prettier
-- file-saver
-- es6-promise
-- axios
 
 ## Functions
 
