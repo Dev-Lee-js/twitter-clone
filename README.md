@@ -57,6 +57,18 @@ npm run start
 ### 회원가입
 <img width="1100" alt="MainPage" src="https://dev-lee-js.github.io/portfolio/images/twitter-clone-1.gif">
 
+### 로그인
+<img width="1100" alt="MainPage" src="https://dev-lee-js.github.io/portfolio/images/twitter-clone-2.gif">
+
+### 트윗 남기기 & 수정하기 & 삭제하기
+<img width="1100" alt="MainPage" src="https://dev-lee-js.github.io/portfolio/images/twitter-clone-3.gif">
+
+### 프로필 수정하기
+<img width="1100" alt="MainPage" src="https://dev-lee-js.github.io/portfolio/images/twitter-clone-4.gif">
+
+### 로그아웃
+<img width="1100" alt="MainPage" src="https://dev-lee-js.github.io/portfolio/images/twitter-clone-5.gif">
+
 
 👉 [사이트 방문하기](https://dev-lee-js.github.io/twitter-clone/)
 
