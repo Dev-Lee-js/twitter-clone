@@ -1,12 +1,9 @@
  # Twitter-Clone PROJECT
  
- <p align='center'>
+<img align="center" width="200" alt="MainPage" src="https://dev-lee-js.github.io/portfolio/images/thumb_07.png"> <br>
+<span align="center">Made by JONGSEOK LEE</span>
 
-<img width="200" alt="MainPage" src="https://dev-lee-js.github.io/portfolio/images/thumb_07.png"> <br>
-Made by JONGSEOK LEE
-
-</p>
-<p align='center'>
+<p align='center'>        
     <img src="https://img.shields.io/badge/React-v17.0.1-blue?logo=React"/>
     <img src="https://img.shields.io/badge/node.js-v14.15.1-green?logo=Node.js"/>
     <img src="https://img.shields.io/badge/storybook-v6.0.28-ff69b4?logo=storybook"/>
