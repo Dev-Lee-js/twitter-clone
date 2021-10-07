@@ -5,7 +5,7 @@
 Made by <br>
 JONGSEOK LEE
 
-<p>
+</p>
 <p align='center'>
     <img src="https://img.shields.io/badge/React-v17.0.1-blue?logo=React"/>
     <img src="https://img.shields.io/badge/node.js-v14.15.1-green?logo=Node.js"/>
